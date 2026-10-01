@@ -17,7 +17,6 @@
 - 🎓 Élève ingénieur à l'**ENSEEIHT** (Sciences du Numérique, par apprentissage) depuis 2026
 - 📚 Licence Informatique, parcours **CMI**, à l'Université Savoie Mont Blanc (2023 – 2026)
 - 💡 J'aime les projets où il faut modéliser un problème, l'optimiser, puis le rendre utilisable
-- 🔐 Je me forme à la **cybersécurité** sur TryHackMe et je m'intéresse à l'**IA**
 
 ### Technologies
 
